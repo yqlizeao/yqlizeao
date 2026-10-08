@@ -1,3 +1,3 @@
-# 🎮 嗨，我是 Leo
+# 🎮 Hi，我是 ZEAO
 
-[![GitHub Roast](https://ghfind.com/api/card/yqlizeao?theme=dark&variant=path)](https://ghfind.com/u/yqlizeao?ref=badge)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/yqlizeao?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/yqlizeao?ref=badge)
